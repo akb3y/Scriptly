@@ -90,14 +90,14 @@ Save. Analyze. Re-edit. All in one organizational space.
 <!-- CONTACT -->
 ## Team
 
-[Alisha Barraw](https://www.github.com/akb3y)
-[Amina Thiam](https://www.github.com/amina197)
-[Jonathan Ghee](https://www.github.com/JonathanGhee)
-[Peter Schaefferkoetter](https://www.github.com/pschaefferkoetter)
-[Sabrina Gortz](https://www.github.com/sgortz)
-[Trevor Edwards](https://www.github.com/Skoomatron)
-[Will Atwood](https://www.github.com/Acid-Override)
-[Yilin Liu](https://github.com/yiiiiilin)
+* [Alisha Barraw](https://www.github.com/akb3y)
+* [Amina Thiam](https://www.github.com/amina197)
+* [Jonathan Ghee](https://www.github.com/JonathanGhee)
+* [Peter Schaefferkoetter](https://www.github.com/pschaefferkoetter)
+* [Sabrina Gortz](https://www.github.com/sgortz)
+* [Trevor Edwards](https://www.github.com/Skoomatron)
+* [Will Atwood](https://www.github.com/Acid-Override)
+* [Yilin Liu](https://github.com/yiiiiilin)
 
 Project Link: [https://github.com/akb3y/Scriptly](https://github.com/akb3y/Scriptly)
 
