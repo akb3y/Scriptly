@@ -16,7 +16,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#team">Team</a></li>
   </ol>
 </details>
 
@@ -88,7 +88,7 @@ Save. Analyze. Re-edit. All in one organizational space.
 
 
 <!-- CONTACT -->
-## Contact
+## Team
 
 Alisha Barraw - alisha.barraw@gmail.com
 
