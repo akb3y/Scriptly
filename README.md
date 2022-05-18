@@ -27,7 +27,7 @@
 
 A peer review and analyzer application for public speakers.
 
-![Scriptly Video](VIDEO_URL "Scriptly Video")
+![Scriptly Video](/Scriptly.gif "Scriptly Video")
 
 [Join us @ Scriptly.us](http://www.scriptly.us/)
 
