@@ -25,11 +25,30 @@
 <!-- ABOUT THE PROJECT -->
 ## Scriptly
 
-Get the tone of any speech you create. Instantly.
+A peer review and analyzer application for public speakers.
 
-Save. Analyze. Re-edit. All in one organizational space.
+![Scriptly Video](VIDEO_URL "Scriptly Video")
 
 [Scriptly.us](http://www.scriptly.us/)
+
+> My role in the development of Scriptly was to create the Landing Page all users will see prior to sign/up or logging in. 
+
+#### Testimonal Carousel
+
+- Automatically cycles between the results analysis of familiar text.
+- Allows users to cycle between panes via left and right arrows.
+
+![MLK Testimonial](PHOTO_URL "MLK Testimonial Screenshot")
+
+![Queen Testimonial](PHOTO_URL "Queen Testimonial Screenshot")
+
+
+
+#### Sign Up Teaser
+
+- Displays a concise description of the application and invites users to get started.
+
+![Sign Up Teaser](PHOTO_URL "Sign Up Teaser Screenshot")
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
