@@ -108,7 +108,7 @@ A peer review and analyzer application for public speakers.
 <!-- CONTACT -->
 ## Team
 
-* [Alisha Barraw](https://www.github.com/akb3y)
+* [Alisha Barraw](https://www.linkedin.com/in/alisha-barraw)
 * [Amina Thiam](https://www.github.com/amina197)
 * [Jonathan Ghee](https://www.github.com/JonathanGhee)
 * [Peter Schaefferkoetter](https://www.github.com/pschaefferkoetter)
