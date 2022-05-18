@@ -27,7 +27,10 @@
 
 A peer review and analyzer application for public speakers.
 
+<<<<<<< HEAD
 ![Scriptly Video](/Scriptly.gif "Scriptly Video")
+=======
+>>>>>>> 91f5cbf26ab64280cfe89747f33829177e42807e
 
 [Join us @ Scriptly.us](http://www.scriptly.us/)
 
@@ -109,7 +112,7 @@ A peer review and analyzer application for public speakers.
 <!-- CONTACT -->
 ## Team
 
-* [Alisha Barraw](https://www.github.com/akb3y)
+* [Alisha Barraw](https://www.linkedin.com/in/alisha-barraw)
 * [Amina Thiam](https://www.github.com/amina197)
 * [Jonathan Ghee](https://www.github.com/JonathanGhee)
 * [Peter Schaefferkoetter](https://www.github.com/pschaefferkoetter)
