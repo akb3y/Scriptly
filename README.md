@@ -29,7 +29,7 @@ A peer review and analyzer application for public speakers.
 
 ![Scriptly Video](VIDEO_URL "Scriptly Video")
 
-[Scriptly.us](http://www.scriptly.us/)
+[Join us @ Scriptly.us](http://www.scriptly.us/)
 
 > My role in the development of Scriptly was to create the Landing Page all users will see prior to sign/up or logging in. 
 
